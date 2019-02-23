@@ -2,4 +2,4 @@
 
 Data analysis 
 
-1. Kickstarter campaign (MS Excel) - conditional formatting, pivot table
+1. Homework 1 looking at Kickstarter campaign (MS Excel) - conditional formatting, pivot table
