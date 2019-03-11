@@ -2,14 +2,14 @@
 
 
   
-1. Kickstarter campaign analysis (MS Excel)
+1. Analyze Kickstarter campaigns using MS Excel
 
 Description: This folder contains data analysis of Kickstarter campaigns using conditional formatting and use of pivot tables to gather certain data. 
 
 
-2. Wall Street stock analysis (VBA scripting)
+2. Analyze Wall Street Stock market trends using VBA scripting
 
-Description: This folder has a VBA script that reads stock market values for 2014, 2015, and 2016 in excel and creates a summary table for each ticker including Yearly Change, Percent Change, and Total Stock Volume. Additional table shows the greatest % increase and % decrease for that year. 
+Description: This folder has a VBA script that reads stock market values for multiple years(2014, 2015, and 2016) and creates a summary table for each ticker including Yearly Change, Percent Change, and Total Stock Volume. Additional table shows the greatest % increase and % decrease for that year. 
 
 Below is an example for the 2014 year.
 <html>
