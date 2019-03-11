@@ -1,3 +1,3 @@
-# Homework 1
+# Analyze Kickstarter campaigns using Excel
 
-Completed Homework 1 
+Description: Description: This folder contains data analysis of Kickstarter campaigns using conditional formatting and use of pivot tables to gather certain data.
