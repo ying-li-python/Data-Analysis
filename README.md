@@ -11,6 +11,6 @@ Description: This VBA script reads stock market values for 2014, 2015, and 2016 
 
 Below is an example for the 2014 year.
 <html>
-
-<img src="https://raw.githubusercontent.com/ying-li-python/Data-Analysis/master/Stock_VBA_analysis/Images/2014-stock.png" height="400" width="600")
+<center>
+<img src="https://raw.githubusercontent.com/ying-li-python/Data-Analysis/master/Stock_VBA_analysis/Images/2014-stock.png" height="400" width="600")</center>
         </html>
