@@ -2,9 +2,9 @@
 
 Wall Street stock analysis (VBA scripting)
 
-Description: This folder has a VBA script that reads stock market values for 2014, 2015, and 2016 in excel and creates a summary table for each ticker including Yearly Change, Percent Change, and Total Stock Volume. Additional table shows the greatest % increase and % decrease for that year.
+Description: This folder has a VBA script that reads stock market values for multiple years (2014, 2015, and 2016) in excel and creates a summary table for each ticker including Yearly Change, Percent Change, and Total Stock Volume. Additional table shows the greatest % increase and % decrease for that year.
 
-Below is are the results 
+Below are the results.
 
 For 2014: 
 <html>
