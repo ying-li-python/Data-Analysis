@@ -9,11 +9,11 @@ Below are the results.
 
 > For 2015:
   <html>
-  <img src="https://raw.githubusercontent.com/ying-li-python/Data-Analysis/master/Stock_VBA_analysis/Images/2015-%20stock-sm.png">
+  <img src="https://raw.githubusercontent.com/ying-li-python/Data-Analysis/master/Stock_VBA_analysis/Images/2015-stock-sm.png">
   </html>
   
  > For 2016: 
  <html>
-  <img src="https://raw.githubusercontent.com/ying-li-python/Data-Analysis/master/Stock_VBA_analysis/Images/2016%20-%20stock-sm.png">
+  <img src="https://raw.githubusercontent.com/ying-li-python/Data-Analysis/master/Stock_VBA_analysis/Images/2016-stock-sm.png">
   </html>
 
