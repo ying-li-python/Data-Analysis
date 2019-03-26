@@ -1,16 +1,16 @@
 # Analysis using Excel  
 
-
+Data stored in Excel is massive and data parsing can be time-consuming, if done by hand. Here are two ways to look at data trends by conditional formating in Excel and creating scripts in Visual Basic. 
   
-#### 1. Kickstarter campaigns 
+## Case 1: Kickstarter campaigns 
 
-Let's try to predict the trends by which Kickstart campaigns are likely to suceed. This folder contains data analysis of Kickstarter campaigns using conditional formatting and use of pivot tables to gather certain data. 
+Let's try to predict the trends by which Kickstart campaigns are likely to suceed. This folder contains data analysis of Kickstarter campaigns using conditional formatting and use of pivot tables. 
 
 #### Techniques
 Microscoft Excel 
 
 
-#### 2. Wall Street Stock market trends 
+## Case 2: Wall Street Stocks
 
 How is the stock market trends for each ticker in 2014, 2015, and 2016? This folder has a VBA script that reads stock market values for multiple years(2014, 2015, and 2016) and creates a summary table for each ticker including Yearly Change, Percent Change, and Total Stock Volume. Additional table shows the greatest % increase and % decrease for that year. 
 
