@@ -1,13 +1,16 @@
 # Data analysis with Excel  
 
-Data stored in Excel is massive and data parsing can be time-consuming, if done by hand. Here are two ways to look at data trends by conditional formating in Excel and creating scripts in Visual Basic. 
+Data stored in Excel is massive and data parsing can be time-consuming, if done by hand. 
+
+Excel is a powerful program that allows for data analysis by: 
+* Pivot tables, which can be visualized using a dashboard (no VBA) 
+* VBA scripting 
+
+We will use both these methods using Kickstarter campaign data and Wall Street stock data as a demonstration.
 
 ## Resources
 * Data provided by UC Berkeley's Data Analysis and Visualization
 
-## Methods 
-* Excel (Pivot tables) and Visual Basic 
-  
 ## Kickstarter campaign trends 
 
 Let's try to predict the trends by which Kickstart campaigns are likely to suceed using Excel. This folder contains data analysis of Kickstarter campaigns using conditional formatting and use of pivot tables, as shown in a dashboard.
